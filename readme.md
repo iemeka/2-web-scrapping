@@ -1,4 +1,4 @@
-### Web Scrapping #2
+### DATA SCRAPING 
 
 Using clearly written python code:
 - Colors were extracted from the html file `python_class_test.html` using regular expression
