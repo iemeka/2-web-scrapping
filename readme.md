@@ -14,3 +14,5 @@ Using clearly written python code:
     
 - The colors and their frequencies were stored in a postgresql database using PostgreSQL database adapter for Python
 - Finally a program to sum the first 50 fibonacci sequence
+
+Checkout my predictive analytics on a dataset : https://iemeka.github.io/predictive-analytics--determination-of-insurance-premium-charge/
